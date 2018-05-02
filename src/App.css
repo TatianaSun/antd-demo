@@ -12,3 +12,6 @@
 #root, .ant-layout {
   height: 100%;
 }
+.ant-menu {
+    height: 100%;
+}
