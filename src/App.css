@@ -1,0 +1,14 @@
+@import '~antd/dist/antd.css';
+
+.ant-layout-header {
+  background-color: #9ea6ad;
+}
+.ant-layout-sider {
+  background-color: #cbd1d8;
+}
+.ant-layout-content {
+  background-color: #e6eaec;
+}
+#root, .ant-layout {
+  height: 100%;
+}
